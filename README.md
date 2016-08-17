@@ -1,4 +1,4 @@
-ES6 Project Demo
+ Demo
 =================
 
 CI status: ![Build Status](https://travis-ci.org/js-demos/es6-project-demo.png?branch=master)
