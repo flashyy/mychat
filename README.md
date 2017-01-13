@@ -1,9 +1,9 @@
- Demo
+My chat Demo
 =================
 
-CI status: ![Build Status](https://travis-ci.org/js-demos/es6-project-demo.png?branch=master)
+CI status: ![Build Status](https://travis-ci.org/flashyy/mychat.png?branch=master)
 
-A basic es6 project, which includes:
+My chat react + express +socket:
 
 1. webpack
 2. babel
